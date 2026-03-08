@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<!--
+<!--## Hi there 👋
+
 **harshitrathore94/harshitrathore94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi 👋, I'm Harshit Rathore
+
+💻 Data Engineer | Snowflake | SQL | Databricks
+
+- 🔭 I’m currently working on Data Engineering projects
+- 🌱 Currently learning Snowflake optimization & Databricks
+- 👯 Looking to collaborate on Data Engineering projects
+- 💬 Ask me about SQL, Snowflake, ETL
+- 📫 How to reach me: harshit.rathore@outlook.com
